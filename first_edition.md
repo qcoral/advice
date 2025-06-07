@@ -1,6 +1,6 @@
 
 # The first edition
-Written on June 7th, 2025 from 2:30PM to 5:00PM EDT. A really quick braindump on some thoughts I've had about running programs for awhile. This will probably be reorganized over time, but for now here we are.
+Written on June 7th, 2025 from 2:30PM to 5:00PM EDT. This document is a really quick braindump on some thoughts I've had about running programs for awhile. This will probably be reorganized over time, but for now here we are.
 
 ## Preface
 
