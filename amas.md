@@ -18,7 +18,7 @@ Before anything - HIT RECORD ON ZOOM. PLEASE. DON'T FORGET.
 
 Expect people to take 4-8 minutes to pile in. Use that time to introduce yourself to the AMA guest and generally just acclimate. 
 
-Starting the actual AMA portion of the call mainly comprises of two things. One, introducing yourself and the guest. Second, expectation-setting for the AAM itself.
+Starting the actual AMA portion of the call mainly comprises of two things. One, introducing yourself and the guest. Second, expectation-setting for the AMA itself.
 
 The introducion is relatively straight forward. I find it easier to allow the guest to introduce themselves. 
 
